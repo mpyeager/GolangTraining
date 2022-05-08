@@ -2,7 +2,7 @@
  Files associated with Todd McLeod Golang training course on Udemy.
 
 ## TODO
-Explain why Todd McLeod's Udemy course is one of the best I've taken. Ever. For any language.
+Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](https://www.udemy.com/course/learn-how-to-code) is one of the best I've taken. Ever. For any language.
 
  ## Things I've learnt.
  1. When setting up Github, ensure that you've generated a [new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and added it to your SSH agent, keychain, and Github user account.
