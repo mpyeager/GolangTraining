@@ -1,5 +1,5 @@
-# GolangTraining
- Files associated with Todd McLeod Golang training course on Udemy.
+# Golang Training
+ Files associated with [Todd McLeod](https://twitter.com/todd_mcleod) [Go](https://go.dev "The Go programming language") training course on [Udemy](https://www.udemy.com "Main Site").
 
 ## TODO
 Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](https://www.udemy.com/course/learn-how-to-code) is one of the best I've taken. Ever. For any language.
