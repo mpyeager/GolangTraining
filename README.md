@@ -12,8 +12,9 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
  5. Spelling mistakes have been the cause of almost **all** of the mistakes I've made ... and, through these mistakes, much of the learning and progress I've made. 
 
 ## Unfiled
-1. [Wesbos](https://twitter.com/wesbos) [Command Line POwer User course](https://commandlinepoweruser.com/)
+1. [Wesbos](https://twitter.com/wesbos) [Command Line Power User course](https://commandlinepoweruser.com/)
 2. [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 3. [Github does dotfiles](https://dotfiles.github.io/) organisation and [Michael Smalley](https://twitter.com/michaeljsmalley) excellent [blog post](http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/).
 4. [Bazel](https://bazel.build) and [using Golang with Bazel](https://medium.com/@simontoth/golang-with-bazel-2b5310d4ce48)
 5. I try not to be a fanboy, but [VScode](https://code.visualstudio.com/) is some next level 'holy shit' IDE stuff.
+6. [dotfiles](https://github.com/mpyeager/dotfiles) to help maximise efficiencies with command line and developer workflow.
