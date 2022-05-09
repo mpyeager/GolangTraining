@@ -14,10 +14,10 @@ var z bool
 
 func main() {
 
-	//Print out the values for each identifier
+	// Print out the values for each identifier
 	fmt.Println(x)
 	fmt.Println(y)
 	fmt.Println(z)
 
-	//Above prints zero value for each variable
+	// Above prints zero value for each variable
 }
