@@ -18,3 +18,4 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 4. [Bazel](https://bazel.build) and [using Golang with Bazel](https://medium.com/@simontoth/golang-with-bazel-2b5310d4ce48)
 5. I try not to be a fanboy, but [VScode](https://code.visualstudio.com/) is some next level 'holy shit' IDE stuff.
 6. [dotfiles](https://github.com/mpyeager/dotfiles) to help maximise efficiencies with command line and developer workflow.
+7. Using extentions will supercharge your developer workflow.
