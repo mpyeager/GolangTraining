@@ -19,4 +19,5 @@ func main() {
 	fmt.Println(y)
 	fmt.Println(z)
 
+	//Above prints zero value for each variable
 }
