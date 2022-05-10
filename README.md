@@ -1,6 +1,11 @@
 # Golang Training
  Files associated with [Todd McLeod](https://twitter.com/todd_mcleod) [Go](https://go.dev "The Go programming language") training course on [Udemy](https://www.udemy.com "Main Site").
 
+ ## Index
+ [Hands on Exercises][1]
+ * [Level 1][2]
+ * [Level 2][3]
+
 ## TODO
 Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](https://www.udemy.com/course/learn-how-to-code) is one of the best I've taken. Ever. For any language.
 
@@ -19,3 +24,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 5. I try not to be a fanboy, but [VScode](https://code.visualstudio.com/) is some next level 'holy shit' IDE stuff.
 6. [dotfiles](https://github.com/mpyeager/dotfiles) to help maximise efficiencies with command line and developer workflow.
 7. Using extentions will supercharge your developer workflow.
+
+[1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
+[2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
+[3]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%202
