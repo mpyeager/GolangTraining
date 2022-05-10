@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	a := 24
-	fmt.Printf("%d\t%b\t%#x\t", a, a, a)
+	Omer := 24
+	fmt.Printf("%d\t%b\t%#x\n", Omer, Omer, Omer)
 
 }
