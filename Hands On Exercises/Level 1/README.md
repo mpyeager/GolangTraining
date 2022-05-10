@@ -1,6 +1,6 @@
 ## Exercises in this folder
 1. [Ex001](../Level%201/Ex001.go) 
-   > Using the short declaration operator, ASSIGN VALUES to VARIABLES with the identifiers x, y, and z
+   `Using the short declaration operator, ASSIGN VALUES to VARIABLES with the identifiers x, y, and z.`
 2. [Ex002](../Level%201/Ex002.go) 
    > Use var to DECLARE three variables. The variables should have package level scope. Do not assign VALUES to the variables ...
 3. [Ex003](../Level%201/Ex003.go) 
