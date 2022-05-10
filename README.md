@@ -2,7 +2,7 @@
  Files associated with [Todd McLeod](https://twitter.com/todd_mcleod) [Go](https://go.dev "The Go programming language") training course on [Udemy](https://www.udemy.com "Main Site").
 
  ## Index
- [Hands on Exercises][1]
+ [Hands On Exercises][1]
  * [Level 1][2]
  * [Level 2][3]
 
