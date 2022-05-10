@@ -1,4 +1,4 @@
-// Exercise 3
+// Level 1: Exercise 3
 // Using the code from the previous exercise;
 // At the package level scope, assign the values to three variables.
 

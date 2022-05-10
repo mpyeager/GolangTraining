@@ -1,4 +1,4 @@
-// Exercise 2
+// Level 1: Exercise 2
 // Use var to DECLARE three variables. The variables should have package level scope.
 // Do not assign VALUES to the variables.
 

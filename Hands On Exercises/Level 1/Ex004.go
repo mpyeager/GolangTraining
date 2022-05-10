@@ -1,4 +1,4 @@
-// Exercise 4
+// Level 1: Exercise 4
 // Create your own type. Have the underlying type be an int.
 // Create a VARIABLE of your new TYPE with the IDENTIFIER "x" using the VAR keyword
 
