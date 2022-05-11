@@ -23,8 +23,11 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 4. [Bazel](https://bazel.build) and [using Golang with Bazel](https://medium.com/@simontoth/golang-with-bazel-2b5310d4ce48)
 5. I try not to be a fanboy, but [VScode](https://code.visualstudio.com/) is some next level 'holy shit' IDE stuff.
 6. [dotfiles](https://github.com/mpyeager/dotfiles) to help maximise efficiencies with command line and developer workflow.
-7. Using extentions will supercharge your developer workflow.
+7. Speaking of dotfiles, you can launch programs directly from terminal using `[program name]` + `.` For example ...
+* `code .` will launch [VScode][4]
+* `open .` will launch [Finder](https://support.apple.com/en-gb/HT201732 "Using Finder on Mac")
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
 [2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
 [3]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%202
+[4]: https://code.visualstudio.com
