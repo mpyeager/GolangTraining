@@ -33,7 +33,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 7. Speaking of dotfiles, you can launch programs directly from terminal using `[program name]` + `.` _or_ `filename`. For example ...
 * `code .`, `code [filename]` will launch [VScode][4]
 * `open .`, `open [filename]` will launch [Finder](https://support.apple.com/en-gb/HT201732 "Using Finder on Mac")
-1. _init_, _condition_, _post_ :-)
+8. _init_, _condition_, _post_ :-)
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
 [2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
