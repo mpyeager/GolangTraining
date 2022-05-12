@@ -6,6 +6,10 @@
  * [Level 1][2]
  * [Level 2][3]
 
+## Useful Documentation
+1. [GoDoc](https://godoc.org "Golang documentation organised a bit better than go.dev")
+2. [Go By Example](https://gobyexample.com "Golang documentation with working examples")
+
 ## TODO : General
 Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](https://www.udemy.com/course/learn-how-to-code) is one of the best I've taken. Ever. For any language.
 
@@ -29,8 +33,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 7. Speaking of dotfiles, you can launch programs directly from terminal using `[program name]` + `.` _or_ `filename`. For example ...
 * `code .`, `code [filename]` will launch [VScode][4]
 * `open .`, `open [filename]` will launch [Finder](https://support.apple.com/en-gb/HT201732 "Using Finder on Mac")
-8. [Go By Example](https://gobyexample.com "Golang documentation with working examples")
-9. _init_, _condition_, _post_ :-)
+1. _init_, _condition_, _post_ :-)
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
 [2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
