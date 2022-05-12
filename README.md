@@ -5,6 +5,7 @@
  [Hands On Exercises][1]
  * [Level 1][2]
  * [Level 2][3]
+ * [Level 3][5]
 
 ## Useful Documentation
 1. [GoDoc](https://godoc.org "Golang documentation organised a bit better than go.dev")
@@ -39,3 +40,4 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 [2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
 [3]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%202
 [4]: https://code.visualstudio.com
+[5]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%203
