@@ -11,7 +11,7 @@ func main() {
 	x := make([]string, 0, 25)
 	fmt.Println(len(x))
 	fmt.Println(cap(x))
-	
+
 	EurovisionFinalists := []string{`Czech Republic`, `Romania`, `Portugal`, `Finland`, `Switzerland`, `France`, `Norway`, `Armenia`, `Italy`, `Spain`, `Netherlands`, `Ukraine`, `Germany`, `Lithuania`, `Azerbaijan`, `Belgium`, `Greece`, `Iceland`, `Moldova`, `Sweden`, `Australia`, `United Kingdom`, `Poland`, `Serbia`, `Estoania`}
 
 	x = append(x, EurovisionFinalists...)
@@ -20,7 +20,7 @@ func main() {
 	fmt.Println(len(x))
 	fmt.Println(cap(x))
 
-	for i := 0; i < len(x); i++ {
+	for i := 0, i < len(x); i++ {
 		fmt.Println(i, x[i])
 	}
 }
