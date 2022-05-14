@@ -20,7 +20,7 @@ func main() {
 	fmt.Println(len(x))
 	fmt.Println(cap(x))
 
-	for i := 0, i < len(x); i++ {
+	for i := 0; i < len(x); i++ {
 		fmt.Println(i, x[i])
 	}
 }
