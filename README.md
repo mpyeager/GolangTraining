@@ -22,7 +22,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
  2. Check your remote repository URLs and change from [HTTPS to SSH](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh) if necessary ... if you don't, you'll likely get errors when you try to push.
  3. There are many reasons to love [OhMyZsh!](https://ohmyz.sh/) which offers plugins galore, including the hugely useful [Github short commands](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index).
  4. If you're not using [Homebrew](https://brew.sh/), well ... you really should be.
- 5. Spelling mistakes have been the cause of almost **all** of the mistakes I've made ... and, through these mistakes, much of the learning and progress I've made. 
+ 5. Spelling mistakes have been the cause of almost **all** of the mistakes I've made ... and, through these mistakes, much of the learning and progress I've made.
 
 ## Unfiled
 1. [Wesbos](https://twitter.com/wesbos) [Command Line Power User course](https://commandlinepoweruser.com/)
@@ -35,6 +35,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 * `code .`, `code [filename]` will launch [VScode][4]
 * `open .`, `open [filename]` will launch [Finder](https://support.apple.com/en-gb/HT201732 "Using Finder on Mac")
 8. _init_, _condition_, _post_ :-)
+9. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy "Makes `diff` readable without having to pipe to txt file") > Usage `diff -u file1 file 2 | diff-so-fancy`
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
 [2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
