@@ -1,11 +1,11 @@
 ## Exercises in this folder
-1. [ex101](../Level%201/Ex001.go)
+1. [01.ex01](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex01.go)
    > Using the short declaration operator, ASSIGN VALUES to VARIABLES with the identifiers `x`, `y`, and `z`.
-2. [ex102](../Level%201/Ex002.go)
+2. [01.ex02](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex02.go)
    > Use `var` to DECLARE three variables. The variables should have package level scope. Do not assign VALUES to the variables ...
-3. [ex103](../Level%201/Ex003.go)
+3. [01.ex03](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex03.go)
    > Using the code from the previous exercise, at the package level scope, assign the values to three variables ...
-4. [ex104](../Level%201/Ex004.go)
+4. [01.ex04](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex04.go)
    > Create your own `type`. Have the underlying type be an `int`. Create a VARIABLE of your new TYPE with the IDENTIFIER `x` using the `var` keyword ...
-5. [ex105](../Level%201/Ex005.go)
+5. [01.ex05](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex05.go)
    > Building on the code from Ex004, at the package level scope, using the `var` keyword, create a VARIABLE with the identifier `y`. The VARIABLE should be of the UNDERLYING TYPE of your `custom type` `x` ...
