@@ -3,9 +3,19 @@
 
  ## Index
  [Hands On Exercises][1]
- * [Level 1][2]
- * [Level 2][3]
- * [Level 3][5]
+ * [Level 01.00][2]
+ * [Level 02.00][3]
+ * [Level 03.00][5]
+ * [Level 04.00][6]
+ * [Level 05.00][7]
+ * [Level 06.00][8]
+ * [Level 07.00][9]
+ * [Level 08.00][10]
+ * [Level 09.00][11]
+ * [Level 10.00][12]
+ * [Level 11.00][13]
+ * [Level 12.00][14]
+ * [Level 13.00][15]
 
 ## Useful Documentation
 1. [GoDoc](https://godoc.org "Golang documentation organised a bit better than go.dev")
@@ -38,7 +48,17 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 9. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy "Makes `diff` readable without having to pipe to txt file") : Usage `diff -u file1 file 2 | diff-so-fancy`
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
-[2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%201
-[3]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%202
+[2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/01.00
+[3]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/02.00
 [4]: https://code.visualstudio.com
-[5]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/Level%203
+[5]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/03.00
+[6]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/04.00
+[7]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/05.00
+[8]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/06.00
+[9]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/07.00
+[10]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/08.00
+[11]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/09.00
+[12]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/10.00
+[13]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/11.00
+[14]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/12.00
+[15]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/13.00
