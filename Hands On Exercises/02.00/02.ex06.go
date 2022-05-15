@@ -3,7 +3,8 @@
 
 package main
 
-import "fmt" "fmt"
+import "fmt"
+
 
 // Since we've been counting the Omer, let's change the exercise a little bit and count that using iota instead. :-)
 const (

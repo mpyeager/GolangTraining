@@ -5,6 +5,7 @@ package main
 
 import "fmt"
 
+
 func main() {
 	x := [5]int{27, 28, 29, 30, 31}
 	for i, v := range x {

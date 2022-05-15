@@ -3,7 +3,8 @@
 
 package main
 
-import "fmt" "fmt"
+import "fmt"
+
 
 func main() {
 	for i := 0; i <= 10000; i++ {

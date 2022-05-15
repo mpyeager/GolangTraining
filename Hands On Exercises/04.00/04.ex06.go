@@ -5,6 +5,7 @@ package main
 
 import "fmt"
 
+
 func main() {
 	x := make([]string, 0, 25)
 	fmt.Println(len(x))

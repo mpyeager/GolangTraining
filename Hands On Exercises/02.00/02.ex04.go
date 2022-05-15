@@ -3,7 +3,8 @@
 
 package main
 
-import "fmt" "fmt"
+import "fmt"
+
 
 func main() {
 	Omer := 24

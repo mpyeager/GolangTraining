@@ -5,6 +5,7 @@ package main
 
 import "fmt"
 
+
 func main()  {
 	xsShammai := []string{"Beit Shammai", "Torah Study", "Only worthy students should be admitted to study."}
 	xsHillel := []string{"Beit Hillel", "Torah Study", "May be taught to anyone that they will repent and become worthy."}

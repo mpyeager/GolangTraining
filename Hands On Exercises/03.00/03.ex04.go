@@ -5,6 +5,7 @@ package main
 
 import "fmt"
 
+
 func main() {
 	bd := 1974
 	for {

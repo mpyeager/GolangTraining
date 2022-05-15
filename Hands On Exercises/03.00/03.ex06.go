@@ -4,6 +4,7 @@
 package main
 
 import "fmt"
+
 // As we've been counting the Omer, let's stick with that. :-)
 func main() {
 	Omer := 27

@@ -3,7 +3,8 @@
 
 package main
 
-import "fmt" "fmt"
+import "fmt"
+
 
 const (
 	a        = "Omer"

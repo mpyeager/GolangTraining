@@ -3,7 +3,7 @@
 
 package main
 
-import "fmt" "fmt"
+import "fmt"
 
 func main() {
 	bd := 1974
