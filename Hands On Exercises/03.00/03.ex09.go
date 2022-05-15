@@ -3,9 +3,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 // As we've been counting the Omer, let's stick with Hagim for fav[Something] :-)
 func main() {
 	favHag := "Pesach"

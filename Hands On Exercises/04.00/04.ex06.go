@@ -3,9 +3,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	x := make([]string, 0, 25)

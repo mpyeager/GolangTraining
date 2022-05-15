@@ -3,9 +3,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main()  {
 	x :=[]int{28, 29, 30, 31, 32, 33, 34, 35, 36, 37}
@@ -16,5 +14,5 @@ func main()  {
 
 	y := []int{42, 43, 44, 45, 46}
 	x = append(x, y...)
-	fmt.Println(x) 
+	fmt.Println(x)
 }

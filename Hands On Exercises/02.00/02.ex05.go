@@ -3,9 +3,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt" "fmt"
 
 func main() {
 	Omer := `The Omer is counted every evening after nightfall, from the second night of Passover

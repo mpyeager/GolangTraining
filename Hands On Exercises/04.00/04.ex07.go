@@ -3,9 +3,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main()  {
 	xsShammai := []string{"Beit Shammai", "Torah Study", "Only worthy students should be admitted to study."}

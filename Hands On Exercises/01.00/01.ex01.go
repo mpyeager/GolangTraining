@@ -1,9 +1,7 @@
 // Level 1: Exercise 1
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 

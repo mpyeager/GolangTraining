@@ -3,9 +3,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"	"fmt"
 
 func main() {
 	for i := 65; i <= 90; i++ {
@@ -13,6 +11,6 @@ func main() {
 		for j := 0; j < 3; j++ {
 			fmt.Printf("\t%#U\n", i)
 		}
-		
-	} 
+
+	}
 }
