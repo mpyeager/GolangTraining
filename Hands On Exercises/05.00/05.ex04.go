@@ -1,31 +1,27 @@
-// Level x: Exercise x
-// Create and use an anonymous struct.
-
 package main
 
 import "fmt"
 
-func main()  {
-	s := struct{
-		surname string
-		forname string
-		authCodes map[string]int
+func main() {
+	s := struct {
+		surname    string
+		forname    string
+		authCodes  map[string]int
 		authLevels []string
-	}
-	{
-		surname: `Turing`
-		forname: `Alan`
+	}{
+		surname: `Turing`,
+		forname: `Alan`,
 		authCodes: map[string]int{
-			`Ultra`: 7192,
+			`Ultra`:  7192,
 			`Enigma`: 4242,
-			`Bombe`: 6334,
-			`Hut 6`: 9921,
+			`Bombe`:  6334,
+			`Hut 6`:  9921,
 		},
 		authLevels: []string{
 			`Classified`,
 			`Secret`,
 			`Top Secret`,
-		}
+		},
 	}
 
 	fmt.Println(s.surname, `,`, s.forname)
@@ -44,4 +40,5 @@ func main()  {
 		fmt.Println(index, value)
 	}
 }
+
 
