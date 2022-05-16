@@ -1,3 +1,6 @@
+// Level 5: Exercise 4
+// Create and use an anonymous struct.
+
 package main
 
 import "fmt"
