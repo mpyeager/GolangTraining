@@ -34,6 +34,10 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
  4. If you're not using [Homebrew](https://brew.sh/), well ... you really should be.
  5. Spelling mistakes have been the cause of almost **all** of the mistakes I've made ... and, through these mistakes, much of the learning and progress I've made.
 
+## Language Tips
+* `init`, `condition`, `post`
+* `keyword`, `identifier`, `type`
+
 ## Unfiled
 1. [Wesbos](https://twitter.com/wesbos) [Command Line Power User course](https://commandlinepoweruser.com/)
 2. [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
@@ -44,7 +48,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 7. Speaking of dotfiles, you can launch programs directly from terminal using `[program name]` + `.` _or_ `filename`. For example ...
 * `code .`, `code [filename]` will launch [VScode][4]
 * `open .`, `open [filename]` will launch [Finder](https://support.apple.com/en-gb/HT201732 "Using Finder on Mac")
-8. _init_, _condition_, _post_ :-)
+
 9. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy "Makes `diff` readable without having to pipe to txt file") : Usage `diff -u file1 file 2 | diff-so-fancy`
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
