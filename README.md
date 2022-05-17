@@ -38,6 +38,21 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 * `init`, `condition`, `post`
 * `keyword`, `identifier`, `type`
 
+## Todd McLeod Life Tips
+# TODO Make these into a t-shirt :-)
+* Drop by drop, the bucket gets filled.
+* Persistently, patiently, you are bound to succeed.
+* If you want to see the future, look at the seeds you are planting today. Plant the right seeds today, you'll harvest a great crop tomorrow.
+* You are cultivating the garden which is _your_ life. You need to go out and work the garden _every day_, planting seeds, tending the plants, watering the garden, and removing the weeds ... that which we can refer to as not beneficial to your garden or _unskillful_ ... you are going to have a good garden and realise a good crop.
+* It's not your intelligence. It's not who you're parents are / were. It's not what culture you come from. The number factor for student success is **grit**.
+* [Angela Duckworth Grit: The Power of Passion and Perseverance](https://youtu.be/W-ONEAcBeTk)
+* Time on task. If you want to be good at anything, you need to get out there and do it _every day_. Set aside some time every day and **commit**.
+* If you want to be successful, get in front of what's coming and let it hit you.
+* Focus on what is important, not on what is urgent.
+* Stress is the difference between what is and what you wish things were.
+* If you no longer want it, you can have it.
+* Try to be 100% focussed ... and 100% relaxed.
+
 ## Unfiled
 1. [Wesbos](https://twitter.com/wesbos) [Command Line Power User course](https://commandlinepoweruser.com/)
 2. [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
