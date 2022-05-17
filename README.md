@@ -39,7 +39,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 * `keyword`, `identifier`, `type`
 
 ## Todd McLeod Life Tips
-# TODO Make these into a t-shirt :-)
+TODO Make these into a t-shirt :-)
 * Drop by drop, the bucket gets filled.
 * Persistently, patiently, you are bound to succeed.
 * If you want to see the future, look at the seeds you are planting today. Plant the right seeds today, you'll harvest a great crop tomorrow.
