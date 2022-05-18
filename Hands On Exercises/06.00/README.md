@@ -10,9 +10,9 @@
    > Create a user defined `struct` with identifer `person` and fields `forname`, `surname`, `age`. Attach a `method` to `type person` with identifier `speak`, and the `method` should take the form of `person` stating their `name`, `age`.
    > Create a value of type `person`, and call the `method` from value of `type person`.
 5. [ex05](06.ex05.go)
-   > Create a type `square` and type `circle`. Attach a `method` to each which calculates and returns `area`.
-   > Create a type `shape` with defines an `interface` as anything which has the `area` method.
-   > Create a `function` `info` which takes type `shape` and then prints the `area`.
+   > Create a type `square` and type `circle`. Attach a `method` to each which calculates and returns `area`.\
+   > Create a type `shape` with defines an `interface` as anything which has the `area` method.\
+   > Create a `function` `info` which takes type `shape` and then prints the `area`.\
    > Create a value of type `square` and a value of type `circle`. Use `func info` to print the `area`s of the `square` and `circle`.
 6. [ex06](06.ex06.go)
    > Build and use an anonymous `function`.
