@@ -5,7 +5,6 @@ package main
 
 import "fmt"
 
-
 func main()  {
 	x :=[]int{28, 29, 30, 31, 32, 33, 34, 35, 36, 37}
 	x = append(x, 38)

@@ -5,7 +5,6 @@ package main
 
 import "fmt"
 
-
 func main() {
 	Omer := `The Omer is counted every evening after nightfall, from the second night of Passover
 	NB: Passover == Pesach == Passover

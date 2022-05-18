@@ -5,7 +5,6 @@ package main
 
 import "fmt"
 
-
 const (
 	a        = "Omer"
 	b string = "Omer"

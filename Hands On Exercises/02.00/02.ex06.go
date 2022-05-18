@@ -5,7 +5,6 @@ package main
 
 import "fmt"
 
-
 // Since we've been counting the Omer, let's change the exercise a little bit and count that using iota instead. :-)
 const (
 	// We use _ to increment the counting from zero as the Omer doesn't start on a Day Zero. :-)
