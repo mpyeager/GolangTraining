@@ -1,5 +1,6 @@
 // Level 1: Exercise 5
-// Building on the code from Ex004; at the package level scope, using the VAR keyword, create a VARIABLE with the identifier "y". The VARIABLE should be of the UNDERLYING TYPE of your custom TYPE "x".
+// Building on the code from the previous exercise; at the package level scope, using the `var` keyword create a `variable` with the identifier `y`. The `variable` should be of the underlying `type` of your custom `type` `x`. Now use `conversion` to convert the `type` of the value stored in `x` to the underlying `type`.
+
 
 package main
 
@@ -16,7 +17,6 @@ func main() {
 	x = 23
 	fmt.Println(x)
 
-	// Now use CONVERSION to convert the TYPE of the VALUE stored in "x" to the underlying type
 	y = int(x)
 	fmt.Println(y)
 	fmt.Printf("%T\n", y)
