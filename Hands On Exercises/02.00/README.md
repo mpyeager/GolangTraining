@@ -1,5 +1,5 @@
 # Level 2
-## Exercises in this folder
+## Exercises in this level
 1. [ex01](https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/02.00)
    > Write a program that prints a number in `decimal`, `binary`, and `hex`.
 2. [ex02]("This link is broken")

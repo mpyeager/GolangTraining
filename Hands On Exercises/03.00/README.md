@@ -1,5 +1,5 @@
 # Level 3
-## Exercises in this folder
+## Exercises in this level
 1. [ex01](03.ex01.go)
   > Print every number from 1 to 10,000
 2. [ex02](03.ex02.go)

@@ -1,5 +1,5 @@
 # Level 1
-## Exercises in this folder
+## Exercises in this level
 1. [ex01](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex01.go)
    > Using the short declaration operator, assign values to `variable`s with the identifiers `x``, `y``, and `z``. Now print the values stored in those variables using a single statement and multiple print statements.
 2. [ex02](https://github.com/mpyeager/GolangTraining/blob/main/Hands%20On%20Exercises/01.00/01.ex02.go)

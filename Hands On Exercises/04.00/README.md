@@ -1,5 +1,5 @@
 # Level 4
-## Exercises in this folder
+## Exercises in this level
 1. [ex01](04.ex01.go)
     > Using a `composite literal`; create an `array` which holds 5 values of type `int`, assign values to each `index position`. `Range` over the array and print the values out. Using `format printing`, print out the `type` of the `array`.
 2. [ex02](04.ex02.go)

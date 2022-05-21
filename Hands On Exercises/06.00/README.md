@@ -1,4 +1,4 @@
-## Exercises in this folder
+## Exercises in this level
 1. [ex01](06.ex01.go)
    > Create a `function` with the identifier `foo` that returns an `int`.
 

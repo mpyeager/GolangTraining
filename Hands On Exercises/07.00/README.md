@@ -1,4 +1,4 @@
-## Exercises in this folder
+## Exercises in this level
 * [ex01](07.ex01.go)
   > Create a value and assign it to a `variable`. Print the address of the value.
 * [ex02](07.ex02.go)
