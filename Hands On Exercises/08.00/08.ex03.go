@@ -1,5 +1,5 @@
-// Level 8: Exercise 2
-// Unmarshal JSON into a Go data structure.
+// Level 8: Exercise 3
+// Encode to JSON []user sending results to Stdout.
 
 package main
 
