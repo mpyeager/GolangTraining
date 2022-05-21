@@ -20,6 +20,7 @@
 ## Useful Documentation
 1. [GoDoc](https://godoc.org "Golang documentation organised a bit better than go.dev")
 2. [Go By Example](https://gobyexample.com "Golang documentation with working examples")
+3. [JSON to Go](https://mholt.github.io/json-to-go "Automagically convert JSON to Go struct")
 
 ## TODO : General
 Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](https://www.udemy.com/course/learn-how-to-code) is one of the best I've taken. Ever. For any language.
@@ -37,6 +38,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
 ## Language Tips
 * `init`, `condition`, `post`
 * `keyword`, `identifier`, `type`
+* Do not communicate by sharing memory; instead, share memory by communicating.
 
 ## Todd McLeod Life Tips
 TODO Make these into a t-shirt :-)
