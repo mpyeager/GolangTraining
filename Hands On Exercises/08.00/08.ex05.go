@@ -34,7 +34,7 @@ func main() {
 		Death:   10,
 		Teachings: []string{
 			`That which is hateful to you, do not do unto your fellow.`,
-			`If I am not for muself, who will be for me? And being only for myself, what am I? And if not now, when?`,
+			`If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?`,
 			`Don't trust yourself until the day you die.`,
 		},
 	}
