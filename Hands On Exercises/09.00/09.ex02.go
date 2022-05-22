@@ -1,5 +1,5 @@
 // Level 9: Exercise 2
-// Instruction set
+// Create a type person struct and attach a method speak to type person using a pointer receiver. Create a type human interface. Create func saySomething and have it take in a human as a parameter which calls the speak method.
 
 package main
 
