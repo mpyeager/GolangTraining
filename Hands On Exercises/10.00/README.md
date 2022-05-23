@@ -1,6 +1,6 @@
 ## Exercises in this level
 1. [ex01](10.ex01.go)
-     > Make the code below work. Use a `func literal` [anonymous self-executing func] as well as a buffered channel.
+    > Make the code below work. Use a `func literal` [anonymous self-executing func] as well as a buffered channel.
       ```
           func main()  {
             c := make(chan int)
