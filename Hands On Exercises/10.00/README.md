@@ -24,8 +24,8 @@
       fmt.Printf("-------\n")
       fmt.Printf("cs\t%T\n", cs)
     }
-  ```
-  ```
+
+
       func main()  {
         cr := make(chan<- int)
 
@@ -38,7 +38,7 @@
       fmt.Printf("-------\n")
       fmt.Printf("cr\t%T\n", cr)
     }
-  ```
+    ```
 3. [ex03](10.ex03.go)
     > Get the code below to run properly.
     ```
@@ -58,29 +58,29 @@
     }()
     return c
   }
-  ```
+   ```
   4. [ex04](10.ex04.go)
     > Starting with the code below, pull the values off the channel using the `select` statement.
-  ```
-  func main() {
-    q := make(chan int)
-    c := gen(q)
+    ```
+    func main() {
+      q := make(chan int)
+      c := gen(q)
 
-    receive(c, q)
+      receive(c, q)
 
-    fmt.Println("About to exit.")
-  }
-
-  func gen(q <-chan int) <-chan int {
-    c := make(chan int)
-
-    for i := 0; i < 100; i++ {
-      c <- i
+      fmt.Println("About to exit.")
     }
 
-    return c
-  }
-  ```
+    func gen(q <-chan int) <-chan int {
+      c := make(chan int)
+
+      for i := 0; i < 100; i++ {
+        c <- i
+      }
+
+      return c
+    }
+    ```
 5. [ex05](10.ex05.go)
     > Show the comma `ok` idiom starting with the code below.
     ```
