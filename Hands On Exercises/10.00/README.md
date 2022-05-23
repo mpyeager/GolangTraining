@@ -1,14 +1,14 @@
 ## Exercises in this level
 1. [ex01](10.ex01.go)
-   > Make the code below work. Use a `func literal` [anonymous self-executing func] as well as a buffered channel.
-   ```
-      func main()  {
-       	c := make(chan int)
-      	  c <- 42
-         	fmt.Println(<-c)
-        }
+     > Make the code below work. Use a `func literal` [anonymous self-executing func] as well as a buffered channel.
+      ```
+          func main()  {
+            c := make(chan int)
+              c <- 42
+              fmt.Println(<-c)
+            }
 
-    ```
+      ```
 2. [ex02](10.ex02.go)
   > Get the code blocks below to run properly.
   ```
