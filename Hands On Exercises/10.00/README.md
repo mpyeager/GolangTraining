@@ -59,7 +59,7 @@
       return c
       }
    ```
-  4. [ex04](10.ex04.go)
+4. [ex04](10.ex04.go)
     > Starting with the code below, pull the values off the channel using the `select` statement.
     ```
     func main() {
