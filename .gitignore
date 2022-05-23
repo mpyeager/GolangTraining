@@ -22,3 +22,5 @@ go.work
 
 # VS Code Workspace file(s)
 *.code-workspace
+*.DS_store
+xx.exxx.go
