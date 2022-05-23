@@ -47,17 +47,17 @@
     receive(c)
 
     fmt.Println("About to exit.")
-  }
+    }
 
-  func gen() <-chan int {
-    c := make(chan int)
+    func gen() <-chan int {
+      c := make(chan int)
 
-      for i := 0; i < 100; i++ {
-        c <-i
+        for i := 0; i < 100; i++ {
+          c <-i
+        }
+      }()
+      return c
       }
-    }()
-    return c
-  }
    ```
   4. [ex04](10.ex04.go)
     > Starting with the code below, pull the values off the channel using the `select` statement.
@@ -69,7 +69,7 @@
       receive(c, q)
 
       fmt.Println("About to exit.")
-    }
+      }
 
     func gen(q <-chan int) <-chan int {
       c := make(chan int)
@@ -79,7 +79,7 @@
       }
 
       return c
-    }
+      }
     ```
 5. [ex05](10.ex05.go)
     > Show the comma `ok` idiom starting with the code below.
