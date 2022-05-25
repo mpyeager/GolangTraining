@@ -22,6 +22,10 @@ go.work
 
 # VS Code Workspace file(s)
 *.code-workspace
+
+# Mac file(s)
 *.DS_store
+
+#GolangTraining Template
 xx.exxx.go
-xx.exxx.go
+
