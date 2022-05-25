@@ -3,7 +3,9 @@
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/12.00/kelev"
 
 type hund struct {
 	name 	string
@@ -13,7 +15,7 @@ type hund struct {
 func main() {
 	dog := hund{
 		name: "Rafi",
-		age: dog.Years(10),
+		age: kelev.Years(10),
 	}
 	fmt.Println(dog)
 }
