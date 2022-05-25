@@ -31,7 +31,7 @@ func sqrt(f float64) (float64, error)  {
 		return 0, sqrtError {
 			"50.2289 N",
 			"99.4656 W",
-			e
+			e,
 		}
 	return 42, nil
 	}
