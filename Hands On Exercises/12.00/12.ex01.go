@@ -3,6 +3,8 @@
 
 package main
 
+import "fmt"
+
 type hund struct {
 	name 	string
 	age 	int
