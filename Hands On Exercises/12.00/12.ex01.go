@@ -13,5 +13,5 @@ func main() {
 		name: "Rafi",
 		age: dog.Years(10),
 	}
-	fmt.Println(Rafi)
+	fmt.Println(dog)
 }
