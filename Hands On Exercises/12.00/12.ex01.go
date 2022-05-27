@@ -5,7 +5,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mpyeager/GolangTraining/kelev"
+	"github.com/mpyeager/GolangTraining/Hands%20On%20Exercises/12.00/kelev"
 )
 
 type hund struct {
