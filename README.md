@@ -34,6 +34,7 @@ Explain why [Todd McLeod](https://twitter.com/todd_mclead)'s [Udemy course](http
  3. There are many reasons to love [OhMyZsh!](https://ohmyz.sh/) which offers plugins galore, including the hugely useful [Github short commands](https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index).
  4. If you're not using [Homebrew](https://brew.sh/), well ... you really should be.
  5. Spelling mistakes have been the cause of almost **all** of the mistakes I've made ... and, through these mistakes, much of the learning and progress I've made.
+ 6. [Copying files on a Mac can sometimes be problematic. Particularly when you want to use an external drive.](https://gist.github.com/kwcto/45e0b985071fad655e17)
 
 ## Language Tips
 * `init`, `condition`, `post`
