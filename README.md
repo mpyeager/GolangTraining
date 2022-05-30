@@ -66,8 +66,8 @@ TODO Make these into a t-shirt :-)
 7. Speaking of dotfiles, you can launch programs directly from terminal using `[program name]` + `.` _or_ `filename`. For example ...
 * `code .`, `code [filename]` will launch [VScode][4]
 * `open .`, `open [filename]` will launch [Finder](https://support.apple.com/en-gb/HT201732 "Using Finder on Mac")
-
-9. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy "Makes `diff` readable without having to pipe to txt file") : Usage `diff -u file1 file 2 | diff-so-fancy`
+8. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy "Makes `diff` readable without having to pipe to txt file") : Usage `diff -u file1 file 2 | diff-so-fancy`
+9. [chmod calculator](https://chmod-calculator.com/)
 
 [1]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises
 [2]: https://github.com/mpyeager/GolangTraining/tree/main/Hands%20On%20Exercises/01.00
